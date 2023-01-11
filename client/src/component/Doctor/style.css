@@ -1,0 +1,6 @@
+#tab{
+width:100%;}
+#tab thead{background-color: antiquewhite;}
+#tab tr{border-bottom: 1px solid black;}
+#tab td,#tab th{text-align: center;
+border: 2px solid black;}
